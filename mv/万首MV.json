@@ -1,0 +1,18 @@
+
+[
+
+{"name":"歌手","url":"http://127.0.0.1:9978/file/TVBox/mv/MV歌手.txt"},
+{"name":"多1",
+"url":"http://127.0.0.1:9978/file/TVBox/mv/多1.txt"},
+{"name":"多2",
+"url":"http://127.0.0.1:9978/file/TVBox/mv/多2.txt"},
+{"name":"A","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv1.txt"},
+{"name":"B","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv2.txt"},
+{"name":"C","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv3.txt"},
+{"name":"D","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv4.txt"},
+{"name":"E","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv5.txt"},
+{"name":"F","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv6.txt"},
+{"name":"G","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv7.txt"},
+{"name":"H","url":"http://127.0.0.1:9978/file/TVBox/mv/mtv8.txt"},
+{"name":"","url": ""}
+]
