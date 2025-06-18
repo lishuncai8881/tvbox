@@ -10,22 +10,8 @@
 {"key":"drpy_T4聚合","name":"㊗️顺财影视🌹","type":3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 {"key": "csp_YGP","name": "🏳️‍🌈新片速递","type": 3,"api": "csp_YGP","jar":"./jar/fm.jar",
 "searchable": 1,"quickSearch": 1,"changeable": 0},
- {
-        "key": "csp_Live2Vod_1",
-        "name": "🖥网络电视",
-        "type": 3,
-        "api": "csp_Live2Vod",
-        "jar": "./jar/Live2Vod.jar",
-        "searchable": 1,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext":"🍎黑软$https://ghproxy.net/https://raw.githubusercontent.com/dlee2008/live/main/黑软.txt#🌹午夜$https://ghproxy.net/https://raw.githubusercontent.com/dlee2008/live/main/午夜.txt#🌹月光宝盒$https://ygbh.site/bh.txt#💥好用$http://8.138.7.223/51.txt#❇️台湾国籍$http://ku9.fr.to/ku9/1746018871.txt#闪电⚡直播$http://gg.7749.org/z/0/dzh.txt#🎆$http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt#💥港粤台$./tv/港粤台.txt#🎆暮雨$./tv/暮雨.txt#🌅咪咕$http://vv.vmhost.cc/zx1/9/咪咕.txt#🎆IPv6一$https://live.izbds.com/tv/iptv4.txt#🎆IPv6二$http://live.nctv.top/x.txt#🇨🇳IPv6 IPTV 源$
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u#♻️山东联通$http://211.154.28.50:5898/2025.txt#♻️总$./tv/总.txt#♨️彩虹直播提取$./tv/彩虹直播提取.txt#💥河北联通$./tv/河北联通.txt#♨️高清户户通$./tv/高清户户通.txt#🇨🇳1$http://tv-api.22ba6.top/live/lusir.txt#🇨🇳2$http://tv-api.22ba6.top/live/xiangjiao.txt
-#🇨🇳3$http://tv-api.22ba6.top/live/junma.txt
-#🇨🇳4$http://tv-api.22ba6.top/live/mogu.txt
-#🇨🇳央视直播$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/顺.m3u#🇨🇳顺$https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/main/2025zb.txt#💞央视高码每天更新$http://gaoma.cniptv.top/gather/cctv.txt#🇨🇳酷九接口$https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u#🌈黄源$./tv/336.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💯自己$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#💖脸红TV$./tv/脸红TV.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt#🐱猫TV$http://rihou.cc:555/gggg.nzk#🍀彩虹台$./tv/彩虹台.txt#♨️梁旭$https://git.acwing.com/tv1/tv2/-/raw/main/15329222283母盘.txt#💢新年快乐$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt#💢新年快乐1$https://sourl.cn/cDxMy5#💢新年快乐2$https://fel.forxhr.top:2022/down.php/dba13e4f09ff37544cee85f1d4271dca.txt#♻️新马泰$./tv/新马泰.txt&&&http://3650000.xyz/api/360.php?cid=6"},
-
-{"key":"萌米","name":"👀萌米🌸App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":0,"changeable":0,"jar":"./jar/fm.jar","ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
+ 
+{"key":"萌米","name":"👀萌米🌸App"，"type":3,"api":"csp_AppMao","searchable":1,"quickSearch":0,"changeable":0,"jar":"./jar/fm.jar","ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 { "key": "顾我", "name": "✳️顾我｜影视", "type": 3, "playerType": 2, "api": "csp_AppYsV2", "ext": "http://121.62.21.14:520/api.php/app/" }, 
 { "key": "起点", "name": "✳️起点｜影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://172.83.156.150:1010/api.php/app/" }, 
 { "key": "好感", "name": ✳️好感｜影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cs.hgyx.vip/api2/api.php/app/" },
