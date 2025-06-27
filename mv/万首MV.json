@@ -2,10 +2,8 @@
 [
 
 {"name":"歌手","url":"./mv/MV歌手.txt"},
-{"name":"多1",
-"url":"./mv/多1.txt"},
-{"name":"多2",
-"url":"./mv/多2.txt"},
+{"name":"多1","url":"./mv/多1.txt"},
+{"name":"多2","url":"./mv/多2.txt"},
 {"name":"A","url":"./mv/mtv1.txt"},
 {"name":"B","url":"./mv/mtv2.txt"},
 {"name":"C","url":"./mv/mtv3.txt"},
