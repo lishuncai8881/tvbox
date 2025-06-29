@@ -1,0 +1,14 @@
+{
+        "数组": "col-lg-2 col-md-4 col-6&&</article></div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "html\" title=\"&&\"",
+        "副标题": "</i>&&</a>",
+        "简介": "padding:10px 10px;\"><p>&&</p>",
+        "链接": "<a href=\"&&\"",
+        "跳转播放链接": "var vid=*var now=\"&&\"",
+        "搜索url": "https://www.lczgy.com/search.php?cat=/search.php&searchword={wd}",
+        "分类二次截取": "",
+        "分类url": "https://www.lczgy.com/frim/index{cateId}-{catePg}.html",
+        "分类": "电影&电视剧&理论片",
+        "分类值": "1&2&3"
+      }
