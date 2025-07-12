@@ -51,7 +51,7 @@
 {"key": "河马短剧","name": "💯 河马｜短剧","type": 3,"api": "./py/河马短剧.py", "jar":"./jar/河马.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
        {
             "key": "偷乐短剧",
-            "name": "偷乐｜短剧",
+            "name": "💯偷乐｜短剧",
             "type": 3,
             "api": "./py/偷乐短剧.py",
             "jar": "./jar/spider.jar",
@@ -63,7 +63,7 @@
         },
         {
             "key": "猎手影视",
-            "name": "猎手｜影视",
+            "name": "💯猎手｜影视",
             "type": 3,
             "api": "./py/猎手影视.py",
             "jar": "./jar/spider.jar",
