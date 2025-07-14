@@ -9,10 +9,10 @@
 
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
-{"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json","jar": "./jar/xbpq.jar"},
+{"key": "03影院","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json","jar": "./jar/xbpq.jar"},
 { "key": "瓜子影视","name": "💥瓜子💥","type": 3,"jar": "https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar","api": "csp_Gz360","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","ext":{"主页url":"https://www.iysdq.cc/","分类url":"https://www.iysdq.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
-
+{"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/影视大全.json"},
+{"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
 {
         "key": "剧评",
         "name": "💙剧评┃App",
