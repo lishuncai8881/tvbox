@@ -450,22 +450,10 @@
      "lives": [
       {
             "name": "影视",
-            "url": "https://raw.bgithub.xyz/lishuncai8881/TVBox/refs/heads/main/lives/直.txt",
+            "url": "./lives/直.txt",
             "type": 0,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
-                             ]
-                }
-            ]
         }
     ],
   "parses": [
