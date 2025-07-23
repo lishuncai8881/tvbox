@@ -1,6 +1,7 @@
 {
   "classes": [
     {"type_name": "MV","type_id": "MV"},
+    {"type_name": "2025年热榜","type_id": "2025年热门MV"},
     {"type_name": "抖音音乐","type_id": "抖音音乐MV"},
     {"type_name": "快手音乐","type_id": "快手音乐MV"},
     {"type_name": "酷狗音乐","type_id": "酷狗音乐MV"},
@@ -14,7 +15,6 @@
     {"type_name": "时光音乐会","type_id": "时光音乐会MV"},
     {"type_name": "好声音","type_id": "中国好声音MV"},
     {"type_name": "粤语","type_id": "粤语MV"},
-    {"type_name": "2025年热榜","type_id": "2025年热门MV"},
     {"type_name": "KTV热门","type_id": "KTV热门MV"},
     {"type_name": "滚石经典","type_id": "滚石MV"},
     {"type_name": "经典老歌","type_id": "经典老歌"},
