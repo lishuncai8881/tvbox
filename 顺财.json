@@ -84,7 +84,7 @@
 {"key": "csp_XBPQ_VS影院","name":"♨️VS影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/VS影院.json"},
 {"key": "csp_XBPQ_南瓜影院","name":"🎃南瓜影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/南瓜影院.json"},
 {"key": "csp_XBPQ_鲨鱼影视","name":"♨️鲨鱼影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/鲨鱼影视.json"},
-{"key": "csp_XBPQ_奇优影院","name":"♨️奇优影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/奇优影院.json"},
+
 {"key": "csp_XBPQ_剧剧吧","name":"♨️剧剧吧","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/剧剧吧.json"},
 {"key": "csp_XBPQ_短剧网","name":"♨️短剧网","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/短剧网.json"},
 {"key": "csp_XBPQ_爱看影视","name":"♨️爱看影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/爱看影视.json"},
@@ -106,7 +106,7 @@
 {"key":"csp_XBPQ_可可影视","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/可可影视.json"},
 {"key":"csp_XBPQ_rarbt","name":"🧿rarbt影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/rarbt.json"},
 {"key":"csp_XBPQ_可统一影视","name":"🔴统一影视","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/统一影视.json"},
-{"key":"csp_XBPQ_八戒影视","name":"🐷八戒影视","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/八戒影视.json"},
+
 {"key":"csp_XBPQ_BT4K影院","name":"👑BT4K影院","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/BT4K影院.json"},
 {"key":"csp_XBPQ_4K动漫","name":"👑4K动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/4K动漫.json"},
 {"key":"csp_XBPQ_追剧之王","name":"🌈PTT-追剧之王","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/追剧之王.json"},
