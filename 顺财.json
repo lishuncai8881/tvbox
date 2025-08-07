@@ -34,7 +34,7 @@
     }, 
 { "key": "小嘀咕", "name": "💥小嘀咕💥", "type": 3, "api": "csp_XBPQ", "changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/小嘀咕.json"},
 { "key": "狐狸君", "name": "💥狐狸君💥", "type": 3, "api": "csp_XBPQ", "changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/狐狸君.json"},
- {"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/JnXjdgBu.png;md5;775249ad229c1b8e981787c286ebd7ed","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+ {"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 {"key": "csp_XYQHiker_电影盒子","name":"👾电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":0,"filterable":1,"ext":"./Hk/电影盒子.json","jar":"./jar/Hk.jar"},
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/555影视.json"},
 {"key":"机器人","name":"👾机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":0,"changeable":1,"ext":"https://v.ikanbot.com","jar":"./jar/spider.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
