@@ -102,7 +102,7 @@
 {"key":"csp_XBPQ_黑夜影视","name":"♻️黑夜影视","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/黑夜影视.json"},
 {"key":"csp_XBPQ_神马影院","name":"♻️神马影院","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/神马影院.json"},
 {"key":"csp_XBPQ_电影先生","name":"♻️电影先生","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/电影先生.json"},
-{"key":"csp_XBPQ_鬼片之家","name":"☠鬼片之家","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/鬼片之家.json"},
+{"key":"csp_XBPQ_鬼片之家","name":"☠鬼片之家","type":3,"api":"csp_XBPQ","jar":"./jar/xbpq.jar",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/鬼片之家.json"},
 {"key":"csp_XBPQ_可可影视","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/可可影视.json"},
 {"key":"csp_XBPQ_rarbt","name":"🧿rarbt影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/rarbt.json"},
 {"key":"csp_XBPQ_可统一影视","name":"🔴统一影视","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/统一影视.json"},
