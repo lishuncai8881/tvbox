@@ -412,6 +412,7 @@
         }, 
 {"key":"MV点播","name":"🎤顺万首MK","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "./mv/live2cms.js","ext":"./mv/万首MV.json"},
 {"key": "hipy_js_KTV歌厅[听]", "name": "🎤KTV歌厅","type": 3,"api": "./lib/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"},
+{"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
 {"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
 {"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
 {"key": "相声小品","name": "🅱️相声┃小品","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/相声小品.json"},
