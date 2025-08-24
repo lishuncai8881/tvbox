@@ -16,7 +16,9 @@
 { "key": "瓜子app", "name": "💥瓜子App💥", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "./drpy_libs/drpy2.min.js", "ext": "./js/guazi.js" },
 {"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/影视大全.json"},
 {"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
-{
+{ "key": "麦田影院", "name": "🤖麦田影院", "type": 3, "api": "csp_XBPQ","jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","quickSearch": 0,"ext":"./json/麦田影院.json"},
+{"key":"麦剧屋","name":"💥麦剧屋💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/麦田剧屋.json"},
+	  {
         "key": "剧评",
         "name": "💙剧评┃App",
         "type": 3,
@@ -35,9 +37,9 @@
         "jar": "./jar/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
         "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     }, 
-{ "key": "小嘀咕", "name": "💥小嘀咕💥", "type": 3, "api": "csp_XBPQ", "changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/小嘀咕.json"},
+
 { "key": "麦田影视", "name": "💥麦田影视💥", "type": 3, "api": "csp_XBPQ", "changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/麦田影视.json"},
- {"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+ {"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/RinpMUTd.png","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 {"key": "csp_XYQHiker_电影盒子","name":"👾电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":0,"filterable":1,"ext":"./Hk/电影盒子.json","jar":"./jar/Hk.jar"},
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/555影视.json"},
 {"key":"机器人","name":"👾机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":0,"changeable":1,"ext":"https://v.ikanbot.com","jar":"./jar/spider.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
@@ -45,7 +47,7 @@
 { "key": "奇异", "name": "💟奇异影视", "type": 0, "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "playurl": "json:https://www.iqiyizyjx.com/?url=" },
 { "key": "贝贝影院", "name": "💟小呗影视", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", "ext":"./json/贝贝影视.json"},
 { "key": "o站影视", "name": "💟动漫O站", "type": 3, "api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1, "ext":"./json/动漫O站.json"},
-{ "key": "drpy_js_黑木耳资源", "name": "💟木耳影视", "type": 3, "api": "./lib/drpy2.min.js","ext":"./js/木耳影视.js" },
+
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
 {"key": "河马短剧","name": "💯河马｜短剧","type": 3,"api": "./py/河马短剧.py","jar":"./jar/河马.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
 {"key": "偷乐短剧","name": "💯偷乐｜短剧","type": 3,"api": "./py/偷乐短剧.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
@@ -76,9 +78,9 @@
 {"key": "csp_XBPQ_7点影视","name":"💚7点影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/7点影视.json"},
 
 {"key": "csp_XBPQ_永乐视频","name":"🍰永乐视频","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/永乐视频.json"},
-{"key": "csp_XBPQ_🍀百思派","name":"🍀百思派","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"./json/百思派.json"},
+
 {"key": "csp_XBPQ_🔥骚火","name":"🔥骚火","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/骚火.json"},
-{"key": "csp_XBPQ_麦田影院","name":"🔥麦田影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/麦田影院.json"},
+{"key": "csp_XBPQ_麦田影院1","name":"🔥麦田^影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/麦田影院1.json"},
 {"key": "csp_XBPQ_大师兄","name":"🔥大师兄","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/大师兄.json"},
 {"key":"drpy_555","name":"🔮555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
 
@@ -252,16 +254,7 @@
         "filterable": 1
     },
 {"key":"zy_红牛资源",   "name":"🦄红牛资源","type":1,   "api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":0,   "filterable":1,   "categories":["短剧","伦理片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
-{
-      "key": "黑木耳",
-      "name": "🦄黑木耳",
-      "type": 1,
-      "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "playUrl":"https://player.heimuer.tv/index.html?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch":0,
-      "categories": ["虐恋短剧","逆袭短剧","悬疑短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","萌宝短剧","其它短剧","剧情片","动作片", "冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片", "科幻片片", "动画电影", "歌舞片", "战争片", "经典片", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台"]},
+
 {"key":"光速资源","name":"🦄光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
