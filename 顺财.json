@@ -18,6 +18,10 @@
 {"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
 { "key": "麦田影院", "name": "🤖麦田影院", "type": 3, "api": "csp_XBPQ","jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","quickSearch": 0,"ext":"./json/麦田影院.json"},
 {"key":"麦剧屋","name":"💥麦剧屋💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/麦田剧屋.json"},
+{"key":"红果","name":"💥红果💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果.json"},
+{"key":"剧王短剧","name":"💥剧王短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/剧王短剧.json"},
+{"key":"红果短剧","name":"💥红果短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果短剧.json"},
+{"key":"偷乐短剧","name":"💥偷乐短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/偷乐短剧.json"},
 	  {
         "key": "剧评",
         "name": "💙剧评┃App",
